@@ -1,0 +1,707 @@
+{
+    "hotels": [
+      {
+        "id": "1",
+        "name": "Simra Hotel",
+        "location": "Italy",
+        "description": "The Best Affordable Hotel in Italy.",
+        "rating": "4.2",
+        "priceRange": "$100 - $200 per night",
+        "image": "../src/assets/1.jpg",
+        "amenities": [
+          "Free WiFi",
+          "Parking",
+          "Airport Shuttle",
+          "Swimming Pool",
+          "Fitness Center"
+        ],
+        "reviews": [
+          {
+            "name": "John Doe",
+            "comment": "Amazing service and comfortable stay!",
+            "rating": "4.5"
+          },
+          {
+            "name": "Emily Stone",
+            "comment": "Great location and affordable prices.",
+            "rating": "4.0"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Novalty Hotel",
+        "location": "Paris",
+        "description": "The Best Luxurious Hotel in Paris.",
+        "rating": "4.4",
+        "priceRange": "$300 - $500 per night",
+        "image": "../src/assets/2.jpg",
+        "amenities": [
+          "Spa",
+          "Free Breakfast",
+          "Concierge Service",
+          "Rooftop Bar",
+          "Luxury Rooms"
+        ],
+        "reviews": [
+          {
+            "name": "Sophia Carter",
+            "comment": "A perfect place to relax and enjoy Paris.",
+            "rating": "4.7"
+          },
+          {
+            "name": "Oliver Brown",
+            "comment": "The amenities were top-notch!",
+            "rating": "4.3"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Treo Hotel",
+        "location": "UE",
+        "description": "The Best Food Hotel in the UE.",
+        "rating": "4.3",
+        "priceRange": "$150 - $250 per night",
+        "image": "../src/assets/3.jpg",
+        "amenities": [
+          "Gourmet Dining",
+          "Free WiFi",
+          "Room Service",
+          "Pet Friendly",
+          "Outdoor Pool"
+        ],
+        "reviews": [
+          {
+            "name": "Liam Wilson",
+            "comment": "The food here is absolutely fantastic!",
+            "rating": "4.8"
+          },
+          {
+            "name": "Mia Davis",
+            "comment": "A cozy place with great hospitality.",
+            "rating": "4.2"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Grand Luxe Hotel",
+        "location": "Dubai",
+        "description": "The epitome of luxury and comfort in Dubai.",
+        "rating": "4.9",
+        "priceRange": "$500 - $1000 per night",
+        "image": "../src/assets/hotel 4.jpg",
+        "amenities": [
+          "Infinity Pool",
+          "Private Beach",
+          "Helipad",
+          "Luxury Spa",
+          "World-Class Dining"
+        ],
+        "reviews": [
+          {
+            "name": "Ella Johnson",
+            "comment": "An unforgettable experience. Worth every penny!",
+            "rating": "5.0"
+          },
+          {
+            "name": "James Smith",
+            "comment": "Exceptional service and stunning views.",
+            "rating": "4.8"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "EcoStay Resort",
+        "location": "Bali",
+        "description": "A sustainable haven amidst nature.",
+        "rating": "4.6",
+        "priceRange": "$200 - $400 per night",
+        "image": "../src/assets/hotel 5.jpg",
+        "amenities": [
+          "Eco-Friendly Rooms",
+          "Yoga Classes",
+          "Organic Food",
+          "Nature Walks",
+          "Spa"
+        ],
+        "reviews": [
+          {
+            "name": "Charlotte Lee",
+            "comment": "Perfect for a peaceful getaway.",
+            "rating": "4.7"
+          },
+          {
+            "name": "Ethan Harris",
+            "comment": "Loved the eco-conscious vibe of the place.",
+            "rating": "4.5"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Urban Oasis",
+        "location": "New York",
+        "description": "Experience the vibrant city life in luxury.",
+        "rating": "4.3",
+        "priceRange": "$250 - $450 per night",
+        "image": "../src/assets/hotel 6.jpg",
+        "amenities": [
+          "Rooftop Pool",
+          "Bar & Grill",
+          "Pet Friendly",
+          "High-Speed Internet",
+          "Concierge Service"
+        ],
+        "reviews": [
+          {
+            "name": "Alex White",
+            "comment": "Loved the rooftop view and the lively vibe.",
+            "rating": "4.6"
+          },
+          {
+            "name": "Rachel Green",
+            "comment": "Great amenities and a fantastic location.",
+            "rating": "4.4"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Mountain View Lodge",
+        "location": "Colorado",
+        "description": "A perfect retreat in the mountains.",
+        "rating": "4.7",
+        "priceRange": "$180 - $350 per night",
+        "image": "../src/assets/hotel7.jpg",
+        "amenities": [
+          "Nature Trails",
+          "Fireplace Suites",
+          "Ski Rentals",
+          "Jacuzzi",
+          "Free Parking"
+        ],
+        "reviews": [
+          {
+            "name": "Chloe Miller",
+            "comment": "A wonderful escape from the city.",
+            "rating": "4.8"
+          },
+          {
+            "name": "Mark Taylor",
+            "comment": "Cozy and serene. Highly recommended!",
+            "rating": "4.6"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Beachfront Paradise",
+        "location": "Maldives",
+        "description": "A luxurious getaway right on the beach.",
+        "rating": "4.9",
+        "priceRange": "$600 - $1200 per night",
+        "image": "../src/assets/hotel 8.jpg",
+        "amenities": [
+          "Private Villas",
+          "Snorkeling",
+          "Infinity Pool",
+          "Spa",
+          "Romantic Dinners"
+        ],
+        "reviews": [
+          {
+            "name": "Sarah Collins",
+            "comment": "The perfect honeymoon destination!",
+            "rating": "5.0"
+          },
+          {
+            "name": "Tom Hardy",
+            "comment": "Amazing views and unmatched luxury.",
+            "rating": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Heritage Stay",
+        "location": "Rajasthan, India",
+        "description": "A palace turned into a luxurious hotel.",
+        "rating": "4.8",
+        "priceRange": "$250 - $450 per night",
+        "image": "../src/assets/hotel 9.jpg",
+        "amenities": [
+          "Traditional Dining",
+          "Cultural Shows",
+          "Camel Safaris",
+          "Spa",
+          "Swimming Pool"
+        ],
+        "reviews": [
+          {
+            "name": "Ravi Gupta",
+            "comment": "Felt like royalty staying here.",
+            "rating": "4.9"
+          },
+          {
+            "name": "Anna Lee",
+            "comment": "Amazing hospitality and architecture.",
+            "rating": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Lakeview Inn",
+        "location": "Switzerland",
+        "description": "Nestled amidst the Alps with stunning lake views.",
+        "rating": "4.6",
+        "priceRange": "$300 - $600 per night",
+        "image": "../src/assets/hotel 10.jpg",
+        "amenities": [
+          "Lakeside Dining",
+          "Boating",
+          "Free Breakfast",
+          "Hiking Trails",
+          "Fireplace Suites"
+        ],
+        "reviews": [
+          {
+            "name": "Emily Watson",
+            "comment": "Breathtaking views and cozy rooms.",
+            "rating": "4.7"
+          },
+          {
+            "name": "Chris Evans",
+            "comment": "Perfect for a romantic getaway.",
+            "rating": "4.6"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "Skyline Suites",
+        "location": "Tokyo, Japan",
+        "description": "Modern suites with panoramic city views.",
+        "rating": "4.5",
+        "priceRange": "$200 - $400 per night",
+        "image": "../src/assets/hotel 11.jpg",
+        "amenities": [
+          "Smart Rooms",
+          "Japanese Cuisine",
+          "Rooftop Garden",
+          "Fitness Center",
+          "High-Speed WiFi"
+        ],
+        "reviews": [
+          {
+            "name": "Hiro Tanaka",
+            "comment": "Excellent service and tech-enabled rooms.",
+            "rating": "4.5"
+          },
+          {
+            "name": "Sophia Kim",
+            "comment": "Loved the rooftop garden experience.",
+            "rating": "4.6"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "Desert Dunes Resort",
+        "location": "Sahara Desert",
+        "description": "An exotic resort in the heart of the desert.",
+        "rating": "4.7",
+        "priceRange": "$350 - $500 per night",
+        "image": "../src/assets/hotel 12.jpg",
+        "amenities": [
+          "Camel Rides",
+          "Star Gazing",
+          "Luxury Tents",
+          "Bonfire Nights",
+          "Spa"
+        ],
+        "reviews": [
+          {
+            "name": "Ali Khan",
+            "comment": "Unique and unforgettable experience.",
+            "rating": "4.8"
+          },
+          {
+            "name": "Maria Rossi",
+            "comment": "A perfect blend of luxury and adventure.",
+            "rating": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "name": "Ocean Breeze Hotel",
+        "location": "Sydney, Australia",
+        "description": "A modern hotel by the beach.",
+        "rating": "4.4",
+        "priceRange": "$220 - $350 per night",
+        "image": "../src/assets/hotel 13.jpg",
+        "amenities": [
+          "Beach Access",
+          "Water Sports",
+          "Barbecue Area",
+          "Swimming Pool",
+          "Free Parking"
+        ],
+        "reviews": [
+          {
+            "name": "Ethan Carter",
+            "comment": "Loved the easy access to the beach.",
+            "rating": "4.4"
+          },
+          {
+            "name": "Liam Davis",
+            "comment": "Great spot for family vacations.",
+            "rating": "4.5"
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "name": "Jungle Retreat",
+        "location": "Amazon Rainforest",
+        "description": "Stay amidst nature with unmatched serenity.",
+        "rating": "4.8",
+        "priceRange": "$180 - $300 per night",
+        "image": "../src/assets/hotel14.jpg",
+        "amenities": [
+          "Wildlife Safaris",
+          "Nature Walks",
+          "Eco-Friendly Lodging",
+          "Organic Food",
+          "Yoga Classes"
+        ],
+        "reviews": [
+          {
+            "name": "Carlos Silva",
+            "comment": "Peaceful and close to nature.",
+            "rating": "4.8"
+          },
+          {
+            "name": "Olivia Martin",
+            "comment": "A one-of-a-kind jungle experience.",
+            "rating": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "name": "Arctic Aurora Lodge",
+        "location": "Iceland",
+        "description": "Witness the Northern Lights in style.",
+        "rating": "4.9",
+        "priceRange": "$400 - $800 per night",
+        "image": "../src/assets/hotel15.jpg",
+        "amenities": [
+          "Northern Lights View",
+          "Ice Bar",
+          "Hot Springs",
+          "Luxury Suites",
+          "Local Cuisine"
+        ],
+        "reviews": [
+          {
+            "name": "Emma Wilson",
+            "comment": "Absolutely mesmerizing experience.",
+            "rating": "5.0"
+          },
+          {
+            "name": "Noah Brown",
+            "comment": "The views were out of this world.",
+            "rating": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "name": "Safari Haven",
+        "location": "Kenya",
+        "description": "An authentic African safari experience.",
+        "rating": "4.7",
+        "priceRange": "$300 - $600 per night",
+        "image": "../src/assets/hotel 16.jpg",
+        "amenities": [
+          "Wildlife Safaris",
+          "Cultural Tours",
+          "Luxury Tents",
+          "Bonfires",
+          "Local Food"
+        ],
+        "reviews": [
+          {
+            "name": "Eleanor Green",
+            "comment": "Loved every moment of the safari.",
+            "rating": "4.8"
+          },
+          {
+            "name": "Liam Scott",
+            "comment": "A dream come true for wildlife lovers.",
+            "rating": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "name": "City Central Hotel",
+        "location": "London, UK",
+        "description": "A chic hotel in the heart of the city.",
+        "rating": "4.5",
+        "priceRange": "$250 - $400 per night",
+        "image": "../src/assets/hotel 17.jpg",
+        "amenities": [
+          "Fine Dining",
+          "Business Center",
+          "Bar",
+          "High-Speed WiFi",
+          "Concierge Service"
+        ],
+        "reviews": [
+          {
+            "name": "Ella Thomas",
+            "comment": "Perfect for business trips.",
+            "rating": "4.5"
+          },
+          {
+            "name": "Jack Anderson",
+            "comment": "Stylish and conveniently located.",
+            "rating": "4.6"
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "name": "Mountain Bliss Resort",
+        "location": "Aspen, Colorado",
+        "description": "A serene resort surrounded by majestic mountains.",
+        "rating": "4.7",
+        "priceRange": "$300 - $600 per night",
+        "image": "../src/assets/hotel 18.jpeg ",
+        "amenities": [
+          "Skiing",
+          "Hot Tubs",
+          "Mountain Views",
+          "Hiking Trails",
+          "Spa"
+        ],
+        "reviews": [
+          {
+            "name": "Sophie Turner",
+            "comment": "The best place to unwind in the mountains.",
+            "rating": "4.8"
+          },
+          {
+            "name": "Mark Taylor",
+            "comment": "Amazing ski facilities and cozy rooms.",
+            "rating": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "name": "Paradise Cove",
+        "location": "Maldives",
+        "description": "A luxurious getaway in the middle of the ocean.",
+        "rating": "4.9",
+        "priceRange": "$500 - $1200 per night",
+        "image": "../src/assets/hotel19.jpeg",
+        "amenities": [
+          "Private Villas",
+          "Snorkeling",
+          "Overwater Bungalows",
+          "Infinity Pools",
+          "Spa"
+        ],
+        "reviews": [
+          {
+            "name": "Lila Johnson",
+            "comment": "The perfect tropical paradise.",
+            "rating": "5.0"
+          },
+          {
+            "name": "Daniel Cruz",
+            "comment": "The views and the food were exceptional.",
+            "rating": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "name": "Urban Escape Hotel",
+        "location": "New York City, USA",
+        "description": "An urban retreat in the hustle and bustle of NYC.",
+        "rating": "4.4",
+        "priceRange": "$250 - $500 per night",
+        "image": "../src/assets/hotel 20.jpeg",
+        "amenities": [
+          "City Views",
+          "Rooftop Bar",
+          "Fitness Center",
+          "Luxury Suites",
+          "Concierge Service"
+        ],
+        "reviews": [
+          {
+            "name": "Emily Rivera",
+            "comment": "Stylish and close to major attractions.",
+            "rating": "4.5"
+          },
+          {
+            "name": "Chris White",
+            "comment": "Loved the rooftop bar and the ambiance.",
+            "rating": "4.4"
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "name": "Island Dream Resort",
+        "location": "Bora Bora",
+        "description": "A dreamy island escape with turquoise waters.",
+        "rating": "4.8",
+        "priceRange": "$700 - $1500 per night",
+        "image": "../src/assets/hotel 21.jpeg",
+        "amenities": [
+          "Overwater Bungalows",
+          "Snorkeling",
+          "Private Beaches",
+          "Luxury Spa",
+          "Infinity Pools"
+        ],
+        "reviews": [
+          {
+            "name": "Olivia Green",
+            "comment": "Absolutely magical and serene.",
+            "rating": "5.0"
+          },
+          {
+            "name": "James Brown",
+            "comment": "Best resort experience ever!",
+            "rating": "4.8"
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "name": "Cliffside Retreat",
+        "location": "Santorini, Greece",
+        "description": "A breathtaking retreat on the cliffs of Santorini.",
+        "rating": "4.9",
+        "priceRange": "$400 - $900 per night",
+        "image": "../src/assets/hotel 22.jpeg",
+        "amenities": [
+          "Sea Views",
+          "Infinity Pools",
+          "Greek Cuisine",
+          "Luxury Suites",
+          "Spa"
+        ],
+        "reviews": [
+          {
+            "name": "Sophia Martinez",
+            "comment": "Stunning views and a peaceful vibe.",
+            "rating": "5.0"
+          },
+          {
+            "name": "Liam Scott",
+            "comment": "The sunsets here are unforgettable.",
+            "rating": "4.9"
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "name": "Royal Highland Hotel",
+        "location": "Scotland",
+        "description": "A historic castle turned into a luxurious hotel.",
+        "rating": "4.7",
+        "priceRange": "$300 - $700 per night",
+        "image": "../src/assets/hotel 23.jpeg",
+        "amenities": [
+          "Castle Tours",
+          "Traditional Scottish Meals",
+          "Luxury Rooms",
+          "Horseback Riding",
+          "Golf Course"
+        ],
+        "reviews": [
+          {
+            "name": "Eleanor Parker",
+            "comment": "A royal experience with amazing service.",
+            "rating": "4.8"
+          },
+          {
+            "name": "Jack Morris",
+            "comment": "Loved staying in a castle!",
+            "rating": "4.7"
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "name": "Rainforest Haven",
+        "location": "Costa Rica",
+        "description": "A cozy retreat in the heart of the rainforest.",
+        "rating": "4.6",
+        "priceRange": "$250 - $500 per night",
+        "image": "../src/assets/hotel 24.jpeg",
+        "amenities": [
+          "Wildlife Tours",
+          "Nature Walks",
+          "Eco-Friendly Lodging",
+          "Organic Food",
+          "Yoga Retreats"
+        ],
+        "reviews": [
+          {
+            "name": "Carlos Reyes",
+            "comment": "Nature lovers will adore this place.",
+            "rating": "4.7"
+          },
+          {
+            "name": "Mia Thompson",
+            "comment": "Peaceful and rejuvenating experience.",
+            "rating": "4.6"
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "name": "Alpine Charm Lodge",
+        "location": "Austria",
+        "description": "A charming alpine lodge with cozy interiors.",
+        "rating": "4.5",
+        "priceRange": "$200 - $400 per night",
+        "image": "../src/assets/hotel 25.jpeg",
+        "amenities": [
+          "Skiing",
+          "Hot Tubs",
+          "Mountain Views",
+          "Traditional Austrian Meals",
+          "Fireplace Suites"
+        ],
+        "reviews": [
+          {
+            "name": "Emma Walker",
+            "comment": "Perfect for a winter holiday.",
+            "rating": "4.5"
+          },
+          {
+            "name": "Lucas Martin",
+            "comment": "Loved the cozy ambiance.",
+            "rating": "4.6"
+          }
+        ]
+      }
+    ],
+    "bookings": [
+      
+    ]
+  }
